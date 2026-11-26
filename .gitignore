@@ -4,6 +4,7 @@
 /cmake-build-*/
 /out/
 /dist/
+/result
 CMakeUserPresets.json
 __pycache__/
 *.pyc
